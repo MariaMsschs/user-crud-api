@@ -29,14 +29,7 @@ public/css/styles.css # Arquivo de estilos
 
 ## Banco de dados
 
-Crie o banco no MySQL:
-
-```sql
-CREATE DATABASE nodesequelize CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
-USE nodesequelize;
-```
-
-> Certifique-se de atualizar as credenciais de usuário e senha no arquivo `db/conn.js`.
+Certifique-se de atualizar as credenciais de usuário e senha no arquivo `db/conn.js`.
 
 ---
 
